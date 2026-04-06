@@ -63,7 +63,7 @@
 
 - **电商海淘**：Amazon、Temu等平台支付正常。
 
-  <img src="https://cfpic.890214.net/file/1775489189462_image-20260406232625867.png" alt="image-20260406232625867" style="zoom:50%;" /><img src="https://cfpic.890214.net/file/1775489112299_image-20260406232504302.png" style="zoom:50%;" />
+ <img width="915" height="711" alt="image-20260406232504302" src="https://github.com/user-attachments/assets/dbed90ee-3069-4a29-bdde-5e44c30f10cc" />
 
 **注意，它不是“万能钥匙”。**
 有些风控极严的平台（比如某些券商、部分欧洲电商），可能还是会拒。但就我实测，**覆盖90%的常见海外在线支付场景，足够了。**
