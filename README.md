@@ -1,3 +1,5 @@
+<a href="https://webapp.51vcard.com/#InviteRegisterPage?inviteCode=110560" _target="_blank"><img width="208" height="70" alt="image" src="https://github.com/user-attachments/assets/3a41b798-a844-439b-9994-fa9b757c4550" /></a>
+
 **昨晚想给ChatGPT Plus续个费，又被拒了。**
 用的招行Visa，页面弹出来一行小字：“发卡行所在地区不被支持。”
 摊手，这场景太熟了——想玩Claude、绑OpenAI API、开个Netflix会员，甚至给美区App Store充个值，十有八九卡在最后一步。
